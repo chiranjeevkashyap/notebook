@@ -1,7 +1,25 @@
-# Module 12: Introduction to Microservice Architecture
+# Spring Boot Cohort
+
+## Table of Contents
+- [Application Properties](#basic-application-properties)
+- [Module 12](#module-12-introduction-to-microservice-architecture)
+    - [Module 12.1](#121-introduction-to-the-microservice-architecture)
+    - [Module 12.2](#122-setting-up-the-inventory-management-system)
+
+## Basic Application Properties
+
+| property | used for |
+| --- | --- |
+| `spring.application.name` | |
+| `spring.main.banner-mode` | |
+| `spring.datasource.url` | |
+| `spring.datasource.username` | |
+| `spring.datasource.password` | |
+
+## Module 12: Introduction to Microservice Architecture
 
 
-## 12.1 Introduction to the Microservice Architecture
+### 12.1 Introduction to the Microservice Architecture
 
 Microservices are an architectural style where applications are developed as a collection of small, loosely coupled, independently deployable services.
 
@@ -31,5 +49,6 @@ Why use Microservices
  - Each service can be updated, deployed and scaled independently
  - Teams can work on different services without affecting each other
 
-## 12.2 Setting up the Inventory Management System
+### 12.2 Setting up the Inventory Management System
 
+Return to [Table of Content](#table-of-contents) or [Top](#spring-boot-cohort)
